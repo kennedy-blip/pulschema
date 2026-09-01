@@ -1,4 +1,4 @@
-#  SchemaPulse
+#  SchemaPulse 
 
 A local-first developer workspace for validating JSON, generating types, building mock data, and comparing JSON documents.
 
