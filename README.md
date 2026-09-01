@@ -1,5 +1,5 @@
 #  SchemaPulse 
-b 
+b u
 A local-first developer workspace for validating JSON, generating types, building mock data, and comparing JSON documents.
 
 ## Run locally
